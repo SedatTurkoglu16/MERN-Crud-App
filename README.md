@@ -2,24 +2,25 @@
 
 A simple CRUD application that allows creating new data in the database, reading data from the database, deleting and updating data.
 
-Technologies Used
+## Technologies Used
 
-Frontend
 
-React js
-React Hooks
-react-router-dom
-axios
-Tailwind Css
+### Frontend
 
-Backend
+- React.js
+- React Hooks
+- React-router-dom 
+- Axios 
+- Tailwind Css
 
-Node js
-Express js
-Mongoose
-dotenv
-cors
+### Backend
 
-Database
+- React.js
+- React Hooks
+- React-router-dom 
+- Axios 
+- Tailwind Css
 
-MongoDB - It provides a free cloud service to store MongoDB collections.
+### Database
+
+- MongoDb
