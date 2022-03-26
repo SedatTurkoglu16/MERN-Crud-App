@@ -15,19 +15,15 @@ A simple CRUD application that allows creating new data in the database, reading
 
 ### Backend
 
-- React.js
-- React Hooks
-- React-router-dom 
-- Axios 
-- Tailwind Css
+- Node.js
+- Express.js
+- Mongoose
+- Dotenv 
+- Cors
 
 ### Database
 
 - MongoDb
-
-
-
-
 
 ## Screenshots
 
