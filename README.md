@@ -2,7 +2,7 @@
 
 A simple CRUD application that allows creating new data in the database, reading data from the database, deleting and updating data.
 
-## Technologies Used
+## Technology Stack
 
 
 ### Frontend
